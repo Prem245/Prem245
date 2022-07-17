@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prem245
 - 👀 I’m interested in cyber security and android app development
-- 🌱 I’m currently learning android, flutter and web development
+- 🌱 I’m currently learning android and flutter.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
